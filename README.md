@@ -15,7 +15,7 @@ The project features image-based QR codes in the following concepts:
 
 [Concept 2: Technofest]: Inspired by Technofest, this concept captures the dynamic and futuristic spirit of technology festivals, emphasizing innovation and technological advancements.
 
-![Uygulama Ekran Görüntüsü](https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/TEKNOFEST.png)
+<img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/TEKNOFEST.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
 
 
 [Concept 3: Space and Satellites]: An artistic depiction of space exploration and satellite technology, highlighting the vastness of space and the role of satellites in modern communication and observation.
