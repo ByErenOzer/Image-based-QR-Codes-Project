@@ -36,7 +36,8 @@ The project features image-based QR codes in the following concepts:
 
 [Concept 6: Mosque]: A depiction of a mosque, capturing its architectural beauty and spiritual significance, presented with a modern artistic touch.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/istanbulmanzara.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
+
 
 ## Contributing
 If you would like to contribute to the project, please share your suggestions or feedback through Contact Information.
