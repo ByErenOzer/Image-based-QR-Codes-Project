@@ -25,7 +25,10 @@ The project features image-based QR codes in the following concepts:
 
 [Concept 4: Hagia Sophia]: A visual representation of the Hagia Sophia, blending historical architecture with modern artistic elements to celebrate this iconic cultural landmark.
 
-<img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/Hagia%20Sophia2.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/istanbulmanzara.png" alt="İstanbul Manzara" width="500"/>
+  <img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/ayasofya%20i%C3%A7i.png" alt="Hagia Sophia İç" width="500"/>
+</div>
 
 
 
