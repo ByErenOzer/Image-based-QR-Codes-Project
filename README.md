@@ -2,7 +2,7 @@
 # Image-based QR Codes Project
 
 ## Purpose
-This project includes image-based QR codes created using Stable Diffusion in various concepts. Our goal is to explore the creative potential of generative AI in the realm of art and to highlight how this technology can reach beyond the boundaries of our imagination. AI offers the opportunity to use art not just as a technical tool but as an innovative form of expression.
+This project includes image-based QR codes created using Stable Diffusion in various concepts. Our goal is to explore the creative potential of generative AI in the realm of art and to highlight how this technology can reach beyond the boundaries of our imagination. AI offers the opportunity to use art not just as a technical tool but as an innovative form of expression. 
 ## Usage
 To scan the QR code, open your phone's camera. Avoid zooming in too close to the image; scanning works better from a distance. If the QR code is not being read, slowly move the camera away from the QR code and tap the center of the image on your screen. Try adjusting the camera distance to ensure it focuses on the image properly.
 ## Content
@@ -31,6 +31,8 @@ The project features image-based QR codes in the following concepts:
 [Concept 4: Mosque]: A depiction of a mosque, capturing its architectural beauty and spiritual significance, presented with a modern artistic touch.
 
 <img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/istanbulmanzara.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
+
+The images for other concepts have not been shared due to privacy concerns.
 
 
 ## Contributing
