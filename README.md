@@ -9,7 +9,8 @@ The project features image-based QR codes in the following concepts:
 
 [Concept 1: AI in Robotics]: A visual representation of AI's role in robotics, showcasing the integration of artificial intelligence with mechanical systems to create advanced robotic solutions.
 
-![Uygulama Ekran Görüntüsü](https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/AI%20in%20Robotics.png)
+<img src="https://github.com/ByErenOzer/Image-based-QR-Codes-Project/blob/main/AI%20in%20Robotics.png" alt="Uygulama Ekran Görüntüsü" width="500"/>
+
 
 
 [Concept 2: Technofest]: Inspired by Technofest, this concept captures the dynamic and futuristic spirit of technology festivals, emphasizing innovation and technological advancements.
